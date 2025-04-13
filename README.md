@@ -1,0 +1,3 @@
+Papers for the challenge 
+useful info : team techniques for task assignment
+...
